@@ -1,3 +1,3 @@
-# Superconductor-$T_c$-Prediction
+# Prediction of Superconductor's Critical Temperature
 
-Superconductivity, Critical Temperature of Superconductor, High-$T_c$ Superconductivity, $T_c$ prediction with machine learning methods 
+Superconductivity, Critical Temperature of Superconductor, High-Tc Superconductivity, Tc prediction with machine learning methods 
