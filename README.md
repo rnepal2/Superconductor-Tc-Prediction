@@ -1,5 +1,5 @@
-# Critical Temperature of Superconductors
-### $T_c$ Prediction and High-$T_c$ Superconductor Classification Models
+# Critical Temperature ($$ T_c $$) of Superconductors
+### $$ T_c $$ Prediction and High-$$ T_c $$ Superconductor Classification Models
 
 Superconductivity, Critical Temperature of Superconductor, High-Tc Superconductivity, Tc prediction with machine learning methods 
 
